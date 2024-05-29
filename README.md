@@ -14,5 +14,5 @@ Projeto criado com as bibliotecas React JS e Material UI.
    npm start
    `
 
-imagem executando:
+resultado
 ![alt text](image.png)
